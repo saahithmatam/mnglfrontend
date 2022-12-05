@@ -202,7 +202,7 @@ function App() {
         fontWeight: 'bold',
         fontSize: '50px'
       }}>
-          <h1>MNGL</h1>
+          <h1>MNGL Productions</h1>
         </header>
     </div>
   );
